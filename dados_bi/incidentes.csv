@@ -1,0 +1,28 @@
+﻿id,funcionario_id,data_ocorrencia,gravidade,tipo_incidente,local_ocorrencia,causa_raiz,partes_corpo_atingidas,dias_perdidos
+1,1,2025-11-11,Quase Acidente,Corte,Pátio,Falha de equipamento,Olhos,0
+2,6,2023-10-13,Leve,Exposição a produto químico,Almoxarifado,Falta de atenção,Cabeça,1
+3,10,2025-10-11,Leve,Queda de mesmo nível,Pátio,Uso incorreto de EPI,Braço(s),3
+4,11,2026-12-14,Leve,Corte,Oficina,Condição insegura no piso,Cabeça,2
+5,12,2026-03-06,Fatal,Queda de mesmo nível,Escritório,Condição insegura no piso,Perna(s),89
+6,16,2024-01-20,Moderado,Queda de mesmo nível,Almoxarifado,Falta de atenção,Mão(s),12
+7,17,2025-08-11,Leve,Exposição a produto químico,Almoxarifado,Falta de atenção,Pé(s),4
+8,19,2026-07-05,Leve,Exposição a produto químico,Doca de Carga,Uso incorreto de EPI,Costas,5
+9,26,2024-03-29,Quase Acidente,Corte,Oficina,Falta de treinamento,Mão(s),0
+10,34,2025-06-25,Grave,Queda de mesmo nível,Doca de Carga,Falta de atenção,Olhos,30
+11,38,2024-06-07,Leve,Exposição a produto químico,Doca de Carga,Condição insegura no piso,Pé(s),3
+12,45,2024-11-23,Leve,Pancada contra,Pátio,Falha de equipamento,Cabeça,4
+13,46,2027-02-24,Moderado,Queda de mesmo nível,Almoxarifado,Condição insegura no piso,Braço(s),6
+14,47,2026-07-26,Fatal,Corte,Almoxarifado,Uso incorreto de EPI,Mão(s),86
+15,55,2024-04-28,Leve,Pancada contra,Doca de Carga,Falha de equipamento,Costas,3
+16,60,2025-08-14,Moderado,Corte,Doca de Carga,Condição insegura no piso,Mão(s),10
+17,61,2027-06-03,Moderado,Pancada contra,Almoxarifado,Uso incorreto de EPI,Costas,6
+18,63,2027-04-21,Moderado,Queda de mesmo nível,Oficina,Condição insegura no piso,Perna(s),10
+19,64,2027-02-24,Leve,Exposição a produto químico,Almoxarifado,Falta de atenção,Mão(s),5
+20,66,2024-11-26,Leve,Esforço excessivo,Almoxarifado,Falha de equipamento,Olhos,5
+21,73,2024-02-21,Moderado,Esforço excessivo,Oficina,Condição insegura no piso,Perna(s),10
+22,79,2025-06-01,Quase Acidente,Exposição a produto químico,Oficina,Condição insegura no piso,Mão(s),0
+23,84,2024-05-20,Leve,Esforço excessivo,Almoxarifado,Condição insegura no piso,Braço(s),3
+24,85,2024-03-10,Moderado,Queda de mesmo nível,Escritório,Uso incorreto de EPI,Cabeça,8
+25,87,2025-07-14,Leve,Queda de mesmo nível,Escritório,Uso incorreto de EPI,Costas,1
+26,93,2023-08-03,Moderado,Esforço excessivo,Oficina,Uso incorreto de EPI,Mão(s),10
+27,94,2024-12-10,Grave,Queda de mesmo nível,Doca de Carga,Condição insegura no piso,Pé(s),34

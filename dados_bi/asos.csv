@@ -1,0 +1,198 @@
+﻿id,funcionario_id,tipo_exame,data_exame,resultado,validade_aso
+1,1,Demissional,2026-08-28,Apto,2027-08-28
+2,2,Demissional,2024-11-17,Inapto,2025-11-17
+3,2,Periódico,2025-04-13,Inapto,2026-04-13
+4,3,Demissional,2026-09-03,Inapto,2027-09-03
+5,3,Demissional,2026-03-18,Apto,2027-03-18
+6,3,Retorno ao Trabalho,2025-10-16,Apto,2026-10-16
+7,4,Retorno ao Trabalho,2025-06-20,Apto,2026-06-20
+8,4,Admissional,2024-11-18,Inapto,2025-11-18
+9,5,Demissional,2023-12-17,Inapto,2024-12-16
+10,5,Retorno ao Trabalho,2026-05-23,Inapto,2027-05-23
+11,6,Retorno ao Trabalho,2025-02-15,Apto,2026-02-15
+12,6,Mudança de Risco,2024-04-18,Apto,2025-04-18
+13,7,Mudança de Risco,2027-02-21,Apto,2028-02-21
+14,7,Demissional,2023-07-24,Apto,2024-07-23
+15,7,Retorno ao Trabalho,2024-08-12,Apto,2025-08-12
+16,8,Demissional,2024-10-19,Apto,2025-10-19
+17,8,Periódico,2024-03-16,Apto,2025-03-16
+18,9,Retorno ao Trabalho,2024-10-31,Apto,2025-10-31
+19,10,Demissional,2026-11-17,Apto,2027-11-17
+20,10,Demissional,2026-06-27,Inapto,2027-06-27
+21,11,Periódico,2024-08-13,Apto,2025-08-13
+22,12,Periódico,2025-07-24,Apto,2026-07-24
+23,13,Mudança de Risco,2025-12-01,Inapto,2026-12-01
+24,14,Mudança de Risco,2026-11-25,Inapto,2027-11-25
+25,15,Demissional,2026-05-29,Apto,2027-05-29
+26,15,Periódico,2024-08-14,Apto,2025-08-14
+27,16,Retorno ao Trabalho,2027-03-30,Apto,2028-03-29
+28,16,Admissional,2024-03-29,Inapto,2025-03-29
+29,17,Admissional,2024-11-07,Inapto,2025-11-07
+30,17,Retorno ao Trabalho,2026-03-14,Inapto,2027-03-14
+31,18,Mudança de Risco,2024-01-14,Apto,2025-01-13
+32,18,Admissional,2025-08-10,Apto,2026-08-10
+33,18,Periódico,2023-11-24,Inapto,2024-11-23
+34,19,Mudança de Risco,2025-04-03,Apto,2026-04-03
+35,19,Mudança de Risco,2025-10-21,Apto,2026-10-21
+36,19,Periódico,2026-08-13,Apto,2027-08-13
+37,20,Retorno ao Trabalho,2026-12-27,Apto,2027-12-27
+38,20,Demissional,2024-05-29,Apto,2025-05-29
+39,21,Demissional,2026-06-20,Inapto,2027-06-20
+40,22,Periódico,2026-05-23,Inapto,2027-05-23
+41,22,Mudança de Risco,2025-09-22,Inapto,2026-09-22
+42,23,Mudança de Risco,2026-12-06,Inapto,2027-12-06
+43,23,Periódico,2025-04-25,Inapto,2026-04-25
+44,24,Periódico,2027-03-22,Apto,2028-03-21
+45,24,Periódico,2024-04-16,Inapto,2025-04-16
+46,25,Mudança de Risco,2024-09-20,Apto,2025-09-20
+47,25,Demissional,2023-12-01,Inapto,2024-11-30
+48,26,Retorno ao Trabalho,2025-09-14,Apto,2026-09-14
+49,26,Retorno ao Trabalho,2023-10-27,Inapto,2024-10-26
+50,27,Retorno ao Trabalho,2024-03-16,Inapto,2025-03-16
+51,27,Mudança de Risco,2024-02-23,Apto,2025-02-22
+52,27,Mudança de Risco,2025-04-24,Inapto,2026-04-24
+53,28,Retorno ao Trabalho,2023-09-14,Inapto,2024-09-13
+54,29,Demissional,2025-06-14,Inapto,2026-06-14
+55,29,Admissional,2026-01-12,Inapto,2027-01-12
+56,30,Demissional,2023-11-28,Inapto,2024-11-27
+57,30,Mudança de Risco,2025-03-08,Inapto,2026-03-08
+58,30,Retorno ao Trabalho,2023-11-15,Inapto,2024-11-14
+59,31,Periódico,2027-06-17,Inapto,2028-06-16
+60,31,Admissional,2027-02-12,Inapto,2028-02-12
+61,31,Periódico,2025-02-06,Inapto,2026-02-06
+62,32,Mudança de Risco,2027-07-08,Inapto,2028-07-07
+63,33,Demissional,2025-11-04,Apto,2026-11-04
+64,33,Mudança de Risco,2026-07-30,Apto,2027-07-30
+65,34,Demissional,2027-03-23,Inapto,2028-03-22
+66,35,Retorno ao Trabalho,2025-04-19,Apto,2026-04-19
+67,35,Retorno ao Trabalho,2024-01-09,Apto,2025-01-08
+68,36,Periódico,2024-08-31,Inapto,2025-08-31
+69,36,Admissional,2024-08-18,Inapto,2025-08-18
+70,36,Demissional,2025-03-10,Apto,2026-03-10
+71,37,Retorno ao Trabalho,2023-11-19,Apto,2024-11-18
+72,37,Admissional,2024-01-30,Apto,2025-01-29
+73,38,Retorno ao Trabalho,2026-01-11,Apto,2027-01-11
+74,38,Demissional,2026-09-25,Inapto,2027-09-25
+75,38,Demissional,2024-07-03,Inapto,2025-07-03
+76,39,Retorno ao Trabalho,2024-01-07,Apto,2025-01-06
+77,40,Mudança de Risco,2026-05-10,Apto,2027-05-10
+78,41,Mudança de Risco,2024-01-24,Apto,2025-01-23
+79,41,Mudança de Risco,2027-05-15,Inapto,2028-05-14
+80,41,Retorno ao Trabalho,2023-07-27,Apto,2024-07-26
+81,42,Mudança de Risco,2024-01-01,Apto,2024-12-31
+82,42,Admissional,2025-03-08,Apto,2026-03-08
+83,42,Periódico,2025-07-15,Inapto,2026-07-15
+84,43,Retorno ao Trabalho,2026-03-28,Apto,2027-03-28
+85,44,Demissional,2023-09-09,Inapto,2024-09-08
+86,44,Mudança de Risco,2026-06-15,Inapto,2027-06-15
+87,45,Mudança de Risco,2026-12-03,Apto,2027-12-03
+88,45,Periódico,2025-05-27,Inapto,2026-05-27
+89,45,Retorno ao Trabalho,2023-09-12,Inapto,2024-09-11
+90,46,Periódico,2026-02-08,Inapto,2027-02-08
+91,47,Retorno ao Trabalho,2025-02-02,Apto,2026-02-02
+92,47,Periódico,2024-09-12,Apto,2025-09-12
+93,47,Periódico,2026-01-17,Inapto,2027-01-17
+94,48,Retorno ao Trabalho,2025-09-20,Inapto,2026-09-20
+95,49,Periódico,2023-07-21,Apto,2024-07-20
+96,49,Demissional,2026-06-10,Apto,2027-06-10
+97,49,Admissional,2025-05-11,Apto,2026-05-11
+98,50,Mudança de Risco,2027-04-10,Apto,2028-04-09
+99,51,Periódico,2024-08-01,Inapto,2025-08-01
+100,52,Periódico,2025-01-13,Apto,2026-01-13
+101,52,Periódico,2024-05-15,Apto,2025-05-15
+102,53,Admissional,2024-03-20,Inapto,2025-03-20
+103,54,Admissional,2026-08-22,Apto,2027-08-22
+104,54,Periódico,2025-08-18,Inapto,2026-08-18
+105,55,Retorno ao Trabalho,2026-09-10,Inapto,2027-09-10
+106,56,Retorno ao Trabalho,2026-08-25,Apto,2027-08-25
+107,56,Demissional,2027-02-05,Apto,2028-02-05
+108,56,Retorno ao Trabalho,2026-08-05,Apto,2027-08-05
+109,57,Retorno ao Trabalho,2026-07-20,Apto,2027-07-20
+110,57,Mudança de Risco,2026-03-10,Apto,2027-03-10
+111,57,Mudança de Risco,2026-10-01,Apto,2027-10-01
+112,58,Mudança de Risco,2026-12-31,Apto,2027-12-31
+113,59,Periódico,2023-07-17,Apto,2024-07-16
+114,60,Demissional,2026-07-17,Apto,2027-07-17
+115,60,Retorno ao Trabalho,2025-06-14,Apto,2026-06-14
+116,60,Admissional,2024-05-03,Apto,2025-05-03
+117,61,Admissional,2024-08-06,Apto,2025-08-06
+118,61,Admissional,2027-01-13,Apto,2028-01-13
+119,62,Demissional,2026-06-17,Apto,2027-06-17
+120,62,Retorno ao Trabalho,2027-03-13,Apto,2028-03-12
+121,62,Periódico,2025-05-22,Inapto,2026-05-22
+122,63,Admissional,2024-01-17,Apto,2025-01-16
+123,63,Periódico,2027-04-04,Inapto,2028-04-03
+124,63,Mudança de Risco,2026-10-10,Inapto,2027-10-10
+125,64,Demissional,2027-02-09,Inapto,2028-02-09
+126,64,Periódico,2026-05-03,Inapto,2027-05-03
+127,65,Admissional,2024-06-23,Inapto,2025-06-23
+128,66,Periódico,2026-05-19,Apto,2027-05-19
+129,66,Admissional,2027-06-24,Inapto,2028-06-23
+130,66,Mudança de Risco,2025-06-16,Inapto,2026-06-16
+131,67,Periódico,2024-08-18,Apto,2025-08-18
+132,67,Mudança de Risco,2024-02-28,Inapto,2025-02-27
+133,67,Mudança de Risco,2026-09-11,Inapto,2027-09-11
+134,68,Demissional,2023-08-10,Inapto,2024-08-09
+135,68,Mudança de Risco,2024-09-18,Apto,2025-09-18
+136,68,Retorno ao Trabalho,2027-04-11,Apto,2028-04-10
+137,69,Admissional,2025-12-01,Inapto,2026-12-01
+138,70,Admissional,2026-07-22,Apto,2027-07-22
+139,70,Retorno ao Trabalho,2025-05-04,Apto,2026-05-04
+140,70,Periódico,2024-10-17,Apto,2025-10-17
+141,71,Periódico,2026-05-22,Inapto,2027-05-22
+142,71,Mudança de Risco,2026-09-27,Inapto,2027-09-27
+143,72,Admissional,2024-08-22,Apto,2025-08-22
+144,72,Periódico,2024-06-03,Apto,2025-06-03
+145,73,Mudança de Risco,2026-05-12,Inapto,2027-05-12
+146,73,Demissional,2024-02-09,Inapto,2025-02-08
+147,74,Retorno ao Trabalho,2027-03-20,Apto,2028-03-19
+148,74,Mudança de Risco,2025-04-10,Apto,2026-04-10
+149,75,Demissional,2026-07-05,Apto,2027-07-05
+150,76,Periódico,2024-08-16,Apto,2025-08-16
+151,76,Demissional,2027-05-07,Inapto,2028-05-06
+152,76,Periódico,2023-10-25,Inapto,2024-10-24
+153,77,Demissional,2026-03-18,Apto,2027-03-18
+154,78,Mudança de Risco,2023-10-24,Apto,2024-10-23
+155,79,Periódico,2024-04-04,Apto,2025-04-04
+156,79,Periódico,2027-05-27,Inapto,2028-05-26
+157,80,Periódico,2027-06-24,Apto,2028-06-23
+158,81,Demissional,2026-02-04,Inapto,2027-02-04
+159,81,Retorno ao Trabalho,2025-11-10,Inapto,2026-11-10
+160,81,Mudança de Risco,2025-03-07,Apto,2026-03-07
+161,82,Admissional,2027-05-08,Inapto,2028-05-07
+162,82,Demissional,2026-10-16,Apto,2027-10-16
+163,83,Periódico,2024-06-28,Apto,2025-06-28
+164,83,Demissional,2027-01-25,Apto,2028-01-25
+165,84,Retorno ao Trabalho,2026-10-25,Apto,2027-10-25
+166,84,Retorno ao Trabalho,2025-01-18,Inapto,2026-01-18
+167,85,Demissional,2023-07-29,Apto,2024-07-28
+168,85,Retorno ao Trabalho,2024-01-02,Inapto,2025-01-01
+169,86,Retorno ao Trabalho,2023-12-10,Apto,2024-12-09
+170,87,Mudança de Risco,2027-03-29,Inapto,2028-03-28
+171,88,Admissional,2025-04-26,Inapto,2026-04-26
+172,88,Periódico,2027-02-11,Inapto,2028-02-11
+173,88,Retorno ao Trabalho,2024-01-22,Apto,2025-01-21
+174,89,Periódico,2024-04-16,Inapto,2025-04-16
+175,89,Mudança de Risco,2027-06-23,Apto,2028-06-22
+176,90,Admissional,2025-04-11,Apto,2026-04-11
+177,90,Periódico,2024-02-05,Apto,2025-02-04
+178,90,Demissional,2027-06-03,Apto,2028-06-02
+179,91,Admissional,2025-04-02,Apto,2026-04-02
+180,91,Admissional,2027-02-26,Apto,2028-02-26
+181,91,Mudança de Risco,2023-07-20,Inapto,2024-07-19
+182,92,Demissional,2024-04-13,Inapto,2025-04-13
+183,92,Periódico,2025-02-19,Apto,2026-02-19
+184,92,Retorno ao Trabalho,2027-01-19,Apto,2028-01-19
+185,93,Admissional,2024-11-16,Inapto,2025-11-16
+186,94,Demissional,2024-05-22,Apto,2025-05-22
+187,94,Retorno ao Trabalho,2025-11-29,Inapto,2026-11-29
+188,95,Retorno ao Trabalho,2025-12-22,Inapto,2026-12-22
+189,96,Periódico,2027-01-18,Apto,2028-01-18
+190,96,Admissional,2026-12-11,Inapto,2027-12-11
+191,97,Retorno ao Trabalho,2026-12-30,Apto,2027-12-30
+192,97,Demissional,2025-08-20,Apto,2026-08-20
+193,97,Retorno ao Trabalho,2027-01-22,Inapto,2028-01-22
+194,98,Admissional,2024-03-24,Inapto,2025-03-24
+195,99,Periódico,2024-02-12,Inapto,2025-02-11
+196,99,Periódico,2024-08-28,Apto,2025-08-28
+197,100,Mudança de Risco,2026-12-10,Apto,2027-12-10

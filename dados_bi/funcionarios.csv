@@ -1,0 +1,101 @@
+﻿id,nome,matricula,cargo,cnh_tipo,cnh_validade
+1,Léo Novaes,959508,Gerente de Logística,AB,2027-07-03
+2,Joana Carvalho,591855,Analista de Logística,B,2025-01-25
+3,Juliana Macedo,9643,Assistente de Logística,D,2023-12-28
+4,Thomas Ribeiro,94277,Gerente de Logística,C,2027-02-10
+5,Maitê Correia,685482,Motorista de Caminhão,AD,2024-11-11
+6,José Freitas,852441,Assistente de Logística,E,2024-07-02
+7,Yuri Farias,194686,Gerente de Logística,D,2027-04-05
+8,Agatha Freitas,633323,Analista de Logística,AC,2027-04-24
+9,Isaque Mendes,809989,Motorista Carreteiro,D,2024-10-03
+10,Levi da Luz,546603,Gerente de Logística,B,2027-02-23
+11,Rhavi Gonçalves,692820,Motorista Carreteiro,E,2025-07-08
+12,Ana Sophia Mendes,587268,Assistente de Logística,D,2024-04-27
+13,Luana Casa Grande,438910,Assistente de Logística,B,2025-09-19
+14,Ana Clara Vasconcelos,321694,Motorista de Caminhão,C,2023-12-25
+15,Srta. Ana Júlia Teixeira,143745,Analista de Logística,E,2026-10-26
+16,Enrico Camargo,856767,Motorista Carreteiro,N/A,2025-11-21
+17,Ana Beatriz Peixoto,55349,Motorista de Caminhão,AB,2025-06-28
+18,Dr. Diogo Sales,31576,Gerente de Logística,E,2026-02-26
+19,João Vitor Fernandes,56657,Motorista de Caminhão,D,2024-09-13
+20,Lucca Moreira,288411,Motorista de Caminhão,AC,2024-12-29
+21,Carlos Eduardo Viana,834712,Analista de Logística,C,2025-03-05
+22,Arthur Gabriel Santos,46162,Analista de Logística,N/A,2023-11-09
+23,Dr. Cauã Nunes,666715,Analista de Logística,AC,2024-06-29
+24,Rafaela da Mota,5456,Analista de Logística,AD,2026-07-05
+25,Pedro Lucas Nogueira,89880,Motorista Carreteiro,A,2026-10-06
+26,Igor Oliveira,675830,Motorista de Caminhão,E,2025-07-18
+27,Nina Borges,795979,Motorista Carreteiro,AB,2027-06-25
+28,Gabrielly Novaes,116164,Analista de Logística,AB,2026-11-08
+29,Olivia Ribeiro,308909,Analista de Logística,AD,2025-02-11
+30,Davi Luiz da Mota,553120,Gerente de Logística,D,2026-01-11
+31,Noah Porto,323666,Gerente de Logística,D,2026-04-29
+32,Gabriela Cardoso,838793,Gerente de Logística,B,2027-01-26
+33,Luiz Gustavo Moreira,273969,Assistente de Logística,E,2024-06-24
+34,Sarah Borges,196805,Analista de Logística,D,2024-01-28
+35,Dr. Erick Ferreira,858303,Motorista Carreteiro,N/A,2023-10-26
+36,Augusto Pimenta,851042,Gerente de Logística,AE,2024-10-05
+37,Sra. Maysa Fogaça,242243,Analista de Logística,N/A,2027-01-27
+38,Heloisa Correia,203448,Motorista de Caminhão,N/A,2023-09-20
+39,Srta. Cecilia da Cruz,189836,Analista de Logística,AC,2024-04-20
+40,Gael Henrique Lima,504191,Analista de Logística,AE,2025-07-18
+41,Davi Luiz Silva,439528,Gerente de Logística,C,2025-12-24
+42,João Pedro Peixoto,925397,Motorista Carreteiro,AB,2027-05-12
+43,Ísis Barbosa,334145,Motorista Carreteiro,E,2025-09-06
+44,Gabriela Câmara,966726,Assistente de Logística,E,2025-09-26
+45,Gustavo Pimenta,673894,Gerente de Logística,AC,2027-04-19
+46,Sabrina Carvalho,569910,Analista de Logística,AB,2027-05-11
+47,Heloísa Cunha,174447,Assistente de Logística,AE,2024-03-15
+48,Luiza Borges,361,Assistente de Logística,AC,2025-08-20
+49,Benício Campos,769553,Motorista Carreteiro,AD,2024-12-08
+50,Davi Lucas da Rosa,630819,Motorista Carreteiro,N/A,2023-10-08
+51,Dr. Nathan Teixeira,630473,Motorista Carreteiro,E,2026-03-31
+52,Maria Isis Sales,57111,Motorista de Caminhão,D,2027-04-09
+53,João Pedro Casa Grande,490008,Assistente de Logística,A,2025-07-27
+54,Bruna Oliveira,779069,Gerente de Logística,D,2025-03-28
+55,Felipe Azevedo,361980,Assistente de Logística,N/A,2024-07-30
+56,Heitor Sá,736446,Motorista de Caminhão,AD,2025-10-23
+57,Heloisa Garcia,826015,Gerente de Logística,B,2025-09-03
+58,Thales Santos,200004,Motorista Carreteiro,A,2026-05-05
+59,Maria Ribeiro,788339,Motorista de Caminhão,AD,2026-10-12
+60,Ana Cecília Pimenta,222987,Motorista de Caminhão,A,2025-02-06
+61,Francisco Barros,52639,Assistente de Logística,AB,2024-12-07
+62,Dra. Eloá Guerra,978663,Analista de Logística,C,2025-03-07
+63,Isabella Santos,806136,Assistente de Logística,E,2026-07-13
+64,Maria Julia Novaes,790949,Motorista de Caminhão,AB,2025-10-14
+65,Luana Andrade,486383,Motorista de Caminhão,A,2026-09-20
+66,Pietra das Neves,888624,Assistente de Logística,E,2025-06-21
+67,Cauã Vargas,878088,Motorista Carreteiro,B,2024-09-11
+68,Benicio Cunha,569376,Assistente de Logística,C,2023-07-18
+69,Francisco Fernandes,880766,Gerente de Logística,AB,2023-12-18
+70,Antonella Montenegro,634075,Gerente de Logística,E,2024-05-03
+71,Alexandre Duarte,173748,Motorista Carreteiro,AD,2026-02-09
+72,Samuel Duarte,14239,Gerente de Logística,C,2026-06-04
+73,Yago Gomes,323076,Gerente de Logística,N/A,2026-12-08
+74,Maysa Novaes,901396,Gerente de Logística,N/A,2027-03-30
+75,Marcelo Monteiro,510706,Gerente de Logística,A,2027-04-27
+76,Luiza Fonseca,640814,Assistente de Logística,N/A,2026-04-02
+77,Vitor Hugo Araújo,728261,Assistente de Logística,AE,2025-07-09
+78,Sr. Otto Gonçalves,280702,Assistente de Logística,AB,2023-10-06
+79,Laura Cavalcante,275960,Assistente de Logística,B,2026-06-07
+80,Srta. Alexia Cavalcanti,342301,Motorista Carreteiro,B,2024-11-23
+81,Melina Sales,708908,Motorista de Caminhão,AB,2023-12-27
+82,Bárbara Porto,289918,Motorista de Caminhão,E,2023-12-26
+83,Davi Miguel da Mata,558264,Gerente de Logística,A,2027-02-08
+84,Sr. Luiz Henrique Moreira,86623,Analista de Logística,AE,2026-04-14
+85,Eloah Vieira,739565,Gerente de Logística,C,2025-10-09
+86,Hadassa Souza,887123,Motorista Carreteiro,D,2025-04-23
+87,Arthur Gabriel Viana,941359,Motorista de Caminhão,A,2024-09-13
+88,Maria Eduarda Pinto,137663,Motorista Carreteiro,C,2024-01-23
+89,Elisa Porto,725969,Analista de Logística,AD,2025-10-28
+90,Renan Barbosa,384975,Gerente de Logística,E,2024-11-14
+91,Srta. Jade Cunha,841122,Motorista de Caminhão,N/A,2023-07-14
+92,Cauã Santos,432528,Motorista Carreteiro,E,2025-08-06
+93,Letícia Cirino,229394,Assistente de Logística,C,2023-12-20
+94,Lucca da Cunha,186940,Motorista Carreteiro,B,2023-10-24
+95,Luara Silva,179658,Assistente de Logística,AB,2026-08-19
+96,Allana Lopes,451088,Motorista Carreteiro,E,2026-09-19
+97,Sr. Cauã Dias,13355,Motorista de Caminhão,E,2027-07-05
+98,Amanda Peixoto,817227,Motorista de Caminhão,N/A,2026-05-17
+99,Maria Castro,804205,Motorista Carreteiro,C,2024-07-23
+100,Cauê Costela,259949,Motorista Carreteiro,C,2025-11-28
