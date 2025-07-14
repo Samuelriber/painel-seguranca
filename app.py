@@ -3,6 +3,17 @@ import sqlite3
 import pandas as pd
 from datetime import date, timedelta
 from incidentes import show_incidentes_page
+import base64 # <-- 1. Importação necessária
+
+# --- FUNÇÃO AUXILIAR PARA PROCESSAR A IMAGEM ---
+def get_image_as_base64(file):
+    """Lê um arquivo de imagem e o converte para string Base64."""
+    try:
+        with open(file, "rb") as f:
+            data = f.read()
+        return base64.b64encode(data).decode()
+    except FileNotFoundError:
+        return None
 
 
 # --- CONFIGURAÇÃO DO BANCO DE DADOS (BACK-END) ---
@@ -617,6 +628,22 @@ def main():
     st.set_page_config(page_title="Segurança do Trabalho", layout="wide", page_icon="🛡️")
 
     with st.sidebar:
+        # 3. Bloco modificado para exibir a logo com fundo branco
+        img_base64 = get_image_as_base64("logo-avapex.png")
+        if img_base64:
+            # Usamos HTML para criar um container (div) com estilo customizado
+            st.markdown(
+                f"""
+                <div style="background-color:white; padding: 1rem; border-radius:10px; margin-bottom: 1rem; text-align: center;">
+                    <img src="data:image/png;base64,{img_base64}" style="width: 150px;">
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+        else:
+            # Caso a imagem não seja encontrada, mostra um erro ou a logo padrão
+            st.error("Logo não encontrada!")
+
         st.title("🛡️ Gestão de Segurança")
         st.write("Navegue pelas seções abaixo.")
 
